@@ -26,4 +26,8 @@ I am a passionate young 20-year-old programmer from Venezuela, with an overflowi
 ---
 [![](https://visitcount.itsvg.in/api?id=GaboSandova1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@GaboSandova1/30-nites-of-code)  
+  ![@GaboSandova1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=GaboSandova1)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
