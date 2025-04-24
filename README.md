@@ -74,8 +74,9 @@ I'm a computer engineering student in my final years of studies. I'm currently e
 
 #
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GaboSandova1/GaboSandova1/blob/main/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/GaboSandova1/GaboSandova1/blob/main/github-user-contribution.svg">
+</p>
 <br/>
 
 
