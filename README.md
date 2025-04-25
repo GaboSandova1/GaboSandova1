@@ -59,7 +59,7 @@ I'm a computer engineering student in my final years of studies. I'm currently e
 
 
 
-## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50px" height="50px" />&nbsp;GitHub Trophies
+## <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="50px" height="50px">GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GaboSandova1&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 #
@@ -69,7 +69,7 @@ I'm a computer engineering student in my final years of studies. I'm currently e
 
 #
 
-### <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="40px" height="40px"></img> Top Contributed Repo
+### <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="45px" height="45px"></img> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GaboSandova1&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 #
@@ -79,6 +79,8 @@ I'm a computer engineering student in my final years of studies. I'm currently e
 </p>
 <br/>
 
+
+<img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" height="350px">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GaboSandova1&icon=0&color=0)](https://visitcount.itsvg.in)
