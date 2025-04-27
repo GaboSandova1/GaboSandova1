@@ -72,12 +72,7 @@ I'm a computer engineering student in my final years of studies. I'm currently e
 ### <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="45px" height="45px"></img> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GaboSandova1&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-#
 
-<p align="center">
-  <img src="https://github.com/GaboSandova1/GaboSandova1/blob/main/github-user-contribution.svg">
-</p>
-<br/>
 
 
 
