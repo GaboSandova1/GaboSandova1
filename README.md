@@ -80,7 +80,6 @@ I'm a computer engineering student in my final years of studies. I'm currently e
 <br/>
 
 
-<img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" height="350px">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GaboSandova1&icon=0&color=0)](https://visitcount.itsvg.in)
